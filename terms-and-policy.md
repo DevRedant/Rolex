@@ -10,7 +10,7 @@ The Bot is not affiliated with, supported or made by Discord Inc. Any direct con
 via Discord - **Redant#9680** or join our official [Support Server](https://discord.gg/tmRQTeUu54).
 # Privacy Policy
 # Usage of Data
-The bot may use stored data for different purposes, including but not limited to:
+The bot never store any kind of data.
 
 Storing the guild-specific settings of the bot (Corresponding commands)
 Providing the command handling of the bot
